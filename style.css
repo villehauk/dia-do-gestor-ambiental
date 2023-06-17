@@ -3,6 +3,10 @@ body{
     background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(115, 243, 137));
 }
 
+div{
+    display:block;
+}
+
 .box1{
     color: white;
     position: absolute;
